@@ -15,9 +15,5 @@ Created With 🧡 by Omar Ameer.
 <br>
 ![preview img](/preview2.png)
 
-## Video Preview
-
-<video width="640" height="360" controls>
-    <source src="device-2023-09-30-185601.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+### Video of Portfolio Website
+[![Video](device-2023-09-30-185601.mp4)](device-2023-09-30-185601.mp4)
