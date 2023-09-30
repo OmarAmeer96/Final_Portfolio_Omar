@@ -15,5 +15,6 @@ Created With 🧡 by Omar Ameer.
 <br>
 ![preview img](/preview2.png)
 
-### Video of Portfolio Website
-[![Video](/TestVid.mp4)](/TestVid.mp4)
+### Video Preview
+![preview vid](/device-2023-09-30-185601.mp4)
+<!-- [![Video](/TestVid.mp4)](/TestVid.mp4) -->
