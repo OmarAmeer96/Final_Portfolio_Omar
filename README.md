@@ -16,4 +16,4 @@ Created With 🧡 by Omar Ameer.
 ![preview img](/preview2.png)
 
 ### Video of Portfolio Website
-[![Video](bandicam 2023-09-30 20-04-44-785.mp4)](bandicam 2023-09-30 20-04-44-785.mp4)
+[![Video](TestVid.mp4)](TestVid.mp4)
