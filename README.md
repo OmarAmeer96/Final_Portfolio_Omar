@@ -14,6 +14,3 @@ Created With 🧡 by Omar Ameer.
 ![preview img](/preview1.png)
 <br>
 ![preview img](/preview2.png)
-
-### Video Preview
-<br>
