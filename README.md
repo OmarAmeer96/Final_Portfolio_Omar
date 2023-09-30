@@ -14,3 +14,15 @@ Created With 🧡 by Omar Ameer.
 ![preview img](/preview1.png)
 <br>
 ![preview img](/preview2.png)
+
+---
+
+<br>
+<div align="center">
+  <b>Website Preview</b>
+</div>
+<br>
+
+<div align="center">
+  <video src="https://github.com/OmarAmeer96/Final_Portfolio_Omar/assets/93061060/7fb13890-f533-44da-a8c6-f801ddbe6e1b" controls></video>
+</div>
